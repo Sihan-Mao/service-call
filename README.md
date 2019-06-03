@@ -1,5 +1,7 @@
 # Beijing City Service Call Shiny Dashboard
 
+## About Dataset
+
 This tutorial introduces spaciotemporal data analysis of Beijing City Service Call data, "*12345*".
 
 Beijing 12345 Call is a non-emergency city services request and information inquiry service provided the City of Beijing.
@@ -13,3 +15,7 @@ The datasets used for the analysis are listed below,
 | **callvillage** | csv | Service type; Timestamp; Location |
 | **village** | shp | Communities Polygons | 
 | **town** | shp | Neighborhoods Polygons | 
+
+## Shiny Dashboard
+
+The Dashboard is created for the purpose of visualizing 1) temporal changes of total call numbers in different time span (**Day, Week, Month**)

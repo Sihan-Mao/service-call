@@ -18,5 +18,6 @@ The datasets used for the analysis are listed below,
 
 ## Shiny Dashboard
 
-The Dashboard is created for the purpose of visualizing 
-- temporal changes of total call numbers in different time span (**Day, Week, Month**)
+The Dashboard is created for the purpose of visualizing: 
+- temporal changes of total call numbers in different time span (**Day, Week, Month**),
+- spatial pattern of service call clustering at the level of communities. 

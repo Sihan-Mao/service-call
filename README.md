@@ -21,3 +21,11 @@ The datasets used for the analysis are listed below,
 The Dashboard is created for the purpose of visualizing: 
 - temporal changes of total call numbers in different time span (**Day, Week, Month**),
 - spatial pattern of service call clustering at the level of communities. 
+
+### Input
+
+Users have 2 options to manipulate the line plot and the choropleth: **dropdown of time span** and **select month for choropleth**. 
+
+**Dropdown Selection**: Day, Week and Month. Call dataset will be grouped by your selection and count the total number of calls in this time span. 
+
+**Month Slider**: Select a date from *2017-05-01* to *2018-05-01*. The data selected will be floored to its month. A choropleth is made showing the number of calls in different communities in this month. 
